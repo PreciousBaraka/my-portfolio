@@ -102,13 +102,13 @@ const About = () => {
               </div>
               <div className="space-y-2">
                 <h4 className="font-semibold text-foreground">
-                  Bachelor of Commerce (BCom)
+                  Bachelor of Education ICT
                 </h4>
                 <p className="text-muted-foreground">
-                  United States International University – Africa
+                  The University of Nairobi, Kenya
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  Graduated December 2023
+                  June 2025
                 </p>
               </div>
             </Card>
